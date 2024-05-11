@@ -1,7 +1,7 @@
 { "name": "alx-files_manager",
   "version": "1.0.0",
   "description": "## Overview",
-  "main": "index.js",
+  "main": "sever.js",
   "scripts": {
   	 "lint": "./node_modules/.bin/eslint",
     "check-lint": "lint [0-9]*.js",
@@ -38,15 +38,7 @@
     "request": "^2.88.0",
     "sinon": "^7.5.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://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@github.com/KwameNtaadu007/alx-files_manager.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/KwameNtaadu007/alx-files_manager/issues"
-  },
-  "homepage": "https://github.com/KwameNtaadu007/alx-files_manager#readme"
 }
